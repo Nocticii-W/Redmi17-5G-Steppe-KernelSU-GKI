@@ -1,2 +1,1 @@
-# Redmi17-Steppe-KernelSU-GKI
-# Redmi17-Steppe-KernelSU-GKI
+# Redmi17-5g-Steppe-KernelSU-GKI
